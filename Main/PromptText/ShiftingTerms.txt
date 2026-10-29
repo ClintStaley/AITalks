@@ -1,0 +1,5 @@
+In some cases, the following paragraph uses two different terms or phrases to refer to the same thing.  Please identify these cases and replace the second, redundant, term with the first one:
+
+
+The circuit board is covered by a shield.   This plate is removed using a spudger and hot air gun.  After the shield no longer covers the mother board, you can access the audio jack on the left.  Two solder points attach the jack to the board.  Melt these joints with a solder gun and remove the jack.
+

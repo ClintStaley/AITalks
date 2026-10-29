@@ -1,0 +1,5 @@
+Please identify pronouns that are ambiguous in the following paragraph:
+
+Install the red rotor dial by using a 5mm screw to attach it to the left bracket.  It should turn freely after attachment.  
+Install the black rotation dial on the right bracket using a second 5mm screw.  Check first that it is not installed backwards.
+Now bolt both the left and right brackets to the support frame.  They are attached using 10mm screws.  These are both red colored for clarity.

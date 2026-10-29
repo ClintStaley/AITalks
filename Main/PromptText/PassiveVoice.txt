@@ -1,0 +1,5 @@
+The circuitboard is covered by a shield.   This is removed using a spudger and hot air gun.  Then the battery is removed by inserting a small screwdriver under it and gently turning it.  A new battery is installed simply by pressing it into place.
+
+Here is the rewritten version without passive voice and using imperative tense:
+
+Remove the circuitboard shield using a spudger and hot air gun. Extract the battery by inserting a small screwdriver under it and gently turning. Install a new battery by pressing it into place.
