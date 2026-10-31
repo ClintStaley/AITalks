@@ -24,3 +24,6 @@
 
 ## Technical Links
   * [3B1B on word embeddings](https://www.youtube.com/watch?v=wjZofJX0v4M) (at time point 12:57)
+
+## Policy and Future Links
+  * [Amodei Pacing the Frontier]
