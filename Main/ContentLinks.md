@@ -29,4 +29,4 @@
   * [Thickstun](https://johnthickstun.com/docs/transformers.pdf)
 
 ## Policy and Future Links
-  * [Amodei Pacing the Frontier]
+  * [Amodei Pacing the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)
