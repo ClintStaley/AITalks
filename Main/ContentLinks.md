@@ -11,6 +11,7 @@
   * (Simple advice on furniture repair)
     [https://claude.ai/share/16762ebd-aab9-4787-87ba-2fe78209e570]
   * (Remove passive voice)[https://claude.ai/share/7c2274cc-d9b3-4156-8fcd-0c1ab0c3f7fe]
+  * (Assist w/ Lecture Diagram)[https://claude.ai/chat/ec2b8a24-f148-4a3c-91dc-83d5111835a8]
   * (Cat naming[https://claude.ai/share/7b37099c-c1a7-489a-be5e-032f5a460033])
   * (Tutorial Session on Hierarchical Bayes)[https://claude.ai/share/442f056f-2670-4b9d-81ff-f46aa60263a9]
   * (Analyzing and Summarizing Legal Agreement)[https://claude.ai/share/99090492-1385-4704-beba-77f0dd4e948e]
@@ -24,6 +25,8 @@
 
 ## Technical Links
   * [3B1B on word embeddings](https://www.youtube.com/watch?v=wjZofJX0v4M) (at time point 12:57)
+  * [Vaswani](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+  * [Thickstun](https://johnthickstun.com/docs/transformers.pdf)
 
 ## Policy and Future Links
   * [Amodei Pacing the Frontier]
